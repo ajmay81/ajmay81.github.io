@@ -1,0 +1,7 @@
+[may]
+name=May Repository
+type=rpm-md
+baseurl=https://ajmay81.github.io/repos/lp156
+gpgcheck=1
+gpgkey=https://ajmay81.github.io/repos/lp156/repodata/repomd.xml.key
+enabled=1
